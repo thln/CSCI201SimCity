@@ -1,0 +1,16 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+/bin
+
+# OS generated files #
+.DS_Store
+*.DS_Store
+*/.DS_Store
+.DS_Store?
+
+.classpath
+.project
